@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import movieticketbookingsystem.gui.MainMenu;
 
 /**
- * This class handles the database operation for the system
+ * This class handles the database operation for our system
  */
 public class DatabaseConnection {
 
