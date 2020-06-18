@@ -1,0 +1,8 @@
+FILM TICKET for: Jurassic World Rating: (MATURE)
+CUSTOMER ID: C004
+NAME: J
+AGE: 33
+STUDENT: No
+SEAT: R4, S6
+TOTAL COST: 15.0
+STATUS: Active
